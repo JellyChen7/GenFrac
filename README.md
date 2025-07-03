@@ -33,9 +33,9 @@ In this work, we introduce GenFrac, a pre-trained generative artificial intellig
 data_Binary.mat;
 data_observation.mat
 
-## Autonomous Inverse Fracture Modelling
+## Network Training
 python main.py
 
-## Generative Inversion
+## Autonomous Inverse Fracture Modelling
 python denoising.py
 
