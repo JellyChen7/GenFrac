@@ -14,6 +14,9 @@ In this work, we introduce GenFrac, a pre-trained generative artificial intellig
 ## Fracture network synthesis and generative inversion results overview for three separated fractures:
 ![Case1 of GenFrac](https://github.com/JellyChen7/GenFrac/raw/master/Assets/Case1.jpg "Case1 of GenFrac")
 
+## Denoising process:
+![Denoising](https://github.com/JellyChen7/GenFrac/raw/master/Assets/Denoising_process.gif "Denoising")
+
 ## Performance analysis and comparison of the simulation prediction of generated fracture networks by GenFrac and ground truth:
 ![Case1_2 of GenFrac](https://github.com/JellyChen7/GenFrac/raw/master/Assets/Case1_2.jpg "Case1_2 of GenFrac")
 
