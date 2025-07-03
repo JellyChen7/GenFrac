@@ -27,7 +27,7 @@ In this work, we introduce GenFrac, a pre-trained generative artificial intellig
 ![Poshan of GenFrac](https://github.com/JellyChen7/GenFrac/raw/master/Assets/Poshan_case.jpg "Poshan of GenFrac")
 
 ## Datasets
-data_Binary.mat
+data_Binary.mat;
 data_observation.mat
 
 ## Autonomous Inverse Fracture Modelling
