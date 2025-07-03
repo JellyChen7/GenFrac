@@ -26,3 +26,13 @@ In this work, we introduce GenFrac, a pre-trained generative artificial intellig
 ## Fracture network reconstruction for groundwater flow system of Poshan area in Hong Kong:
 ![Poshan of GenFrac](https://github.com/JellyChen7/GenFrac/raw/master/Assets/Poshan_case.jpg "Poshan of GenFrac")
 
+## Datasets
+data_Binary.mat
+data_observation.mat
+
+## Autonomous Inverse Fracture Modelling
+python main.py
+
+## Generative Inversion
+python denoising.py
+
