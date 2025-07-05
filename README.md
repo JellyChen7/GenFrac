@@ -36,6 +36,6 @@ data_observation.mat
 ## Network Training
 python main.py
 
-## Autonomous Inverse Fracture Modelling
+## Autonomous Inverse Fracture Generation
 python denoising.py
 
