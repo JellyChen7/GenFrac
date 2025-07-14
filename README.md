@@ -39,3 +39,12 @@ python main.py
 ## Autonomous Inverse Fracture Generation
 python denoising.py
 
+If you find the paper or this repository helpful in your publications, please consider citing it.
+
+```bibtex
+@article{mallick2025reinforcement,
+  title={Physics-Supervised Autonomous Inverse Fracture Modelling via Generative Artificial Intelligence},
+  author={Guodong, Chen and Jiu, Jimmy Jiao and Zhongzheng, Wang and Rong, Mao and Tao, Yang},
+  year={2025},
+}
+```
