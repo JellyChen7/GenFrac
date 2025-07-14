@@ -42,7 +42,7 @@ python denoising.py
 If you find the paper or this repository helpful in your publications, please consider citing it.
 
 ```bibtex
-@article{mallick2025reinforcement,
+@article{Chen2025Diffusion,
   title={Physics-Supervised Autonomous Inverse Fracture Modelling via Generative Artificial Intelligence},
   author={Guodong, Chen and Jiu, Jimmy Jiao and Zhongzheng, Wang and Rong, Mao and Tao, Yang},
   year={2025},
