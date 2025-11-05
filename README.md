@@ -1,7 +1,7 @@
 # GenFrac
 Physics-Supervised Autonomous Inverse Fracture Modelling via Generative Artificial Intelligence (conditional diffusion models with 2D UNet as basic framework)
 
-[Guodong Chen](https://scholar.google.com/citations?user=U2YFkAgAAAAJ&hl=zh-TW&oi=ao), [Jiu Jimmy Jiao*](https://scholar.google.com/citations?user=t7zybZUAAAAJ&hl=zh-TW&oi=ao), Zhongzheng Wang, Rong Mao, & Tao Yang
+[Guodong Chen](https://scholar.google.com/citations?user=U2YFkAgAAAAJ&hl=zh-TW&oi=ao), [Jiu Jimmy Jiao*](https://scholar.google.com/citations?user=t7zybZUAAAAJ&hl=zh-TW&oi=ao), Zhongzheng Wang, Rong Mao, Tao Yang, & [Nori Nakata](https://profiles.lbl.gov/88689-nori-nakata)
 
 In this work, we introduce GenFrac, a pre-trained generative artificial intelligence method for the autonomous inversion of fracture networks in complex subsurface geological formations. In this method, pre-trained denoising diffusion model formulates the inversion as a conditional denoising process from sparse and noisy observational data while incorporating prior geological information, facilitating improved accuracy in parameter estimations. To ensure the accuracy of the inverse generation of fracture networks, physics-supervised procedure is further conducted to pre-screen the promising parameter fields. The work enables generative parameter inversion through the direct generation of static parameters conditioned on the observational data of state parameters, offering broad applicability to related fields including fluid flow, serving both as a surrogate model and nonlinear optimizer.
 
